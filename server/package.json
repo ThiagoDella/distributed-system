@@ -1,0 +1,30 @@
+{
+  "name": "distributed-server-with-arduino-and-nodejs",
+  "version": "1.0.0",
+  "description": "This is a project for my distributed systems class at CEFET-RJ",
+  "main": "server.js",
+  "dependencies": {
+    "serialport": "^4.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoDella/distributed-system.git"
+  },
+  "keywords": [
+    "distributed",
+    "system",
+    "arduino",
+    "nodejs"
+  ],
+  "author": "Thiago Della Libera Moreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThiagoDella/distributed-system/issues"
+  },
+  "homepage": "https://github.com/ThiagoDella/distributed-system#readme"
+}
